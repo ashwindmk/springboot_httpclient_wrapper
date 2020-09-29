@@ -1,0 +1,7 @@
+package com.ashwin.java;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class HttpClientWrapperConfiguration {
+}
